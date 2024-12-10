@@ -34,7 +34,10 @@ To enable robust time intelligence and facilitate a detailed analysis of the per
 
 This structured approach laid the groundwork for meaningful insights through accurate and comprehensive visualizations.
 
+## Data Model
+
 ![Model](images/CallCenter_modelling.JPG)
 
+## Raw Data Preview
 
 ![Model](images/Data_Preview.JPG)
