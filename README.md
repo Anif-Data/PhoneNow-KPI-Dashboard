@@ -21,3 +21,15 @@ PhoneNow is facing challenges in optimizing its call center operations to meet g
 | **Speed of Answer (seconds)** | Time taken (in seconds) for the agent to answer the call after it was initiated.                   |
 | **Avg Talk Duration**  | Average duration of the call in hours, minutes, and seconds.                                         |
 | **Satisfaction Rating** | Customer's rating of the call experience on a scale of 1-5.                                          |
+
+## METHODOLOGY
+### Data Preparation and Visualization 
+
+To enable robust time intelligence and facilitate a detailed analysis of the performance of the call center, the data preparation process was conducted with precision and attention to detail. Key activities included:  
+
+- **Calendar Table Development**: A custom calendar table was created to support advanced time-based analytics.  
+- **Dataset Integration**: The calendar table was seamlessly integrated with the marketing campaign datasets for cohesive analysis.  
+- **Relationship Mapping**: Relationships were established between the calendar table and other data tables through shared date columns, ensuring consistent linkage.  
+- **Data Model Validation**: A thorough review of the data model was conducted to confirm data integrity and ensure the accuracy of relationships.  
+
+This structured approach laid the groundwork for meaningful insights through accurate and comprehensive visualizations.
