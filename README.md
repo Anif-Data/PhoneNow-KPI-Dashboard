@@ -33,3 +33,5 @@ To enable robust time intelligence and facilitate a detailed analysis of the per
 - **Data Model Validation**: A thorough review of the data model was conducted to confirm data integrity and ensure the accuracy of relationships.  
 
 This structured approach laid the groundwork for meaningful insights through accurate and comprehensive visualizations.
+
+![Campaign Analysis](CallCenter_modelling.jpg)
