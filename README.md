@@ -37,4 +37,4 @@ This structured approach laid the groundwork for meaningful insights through acc
 ![Model](images/CallCenter_modelling.JPG)
 
 
-![Model](images/Data_preview.JPG)
+![Model](images/Data_Preview.JPG)
