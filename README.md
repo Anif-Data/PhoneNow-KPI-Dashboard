@@ -40,4 +40,4 @@ This structured approach laid the groundwork for meaningful insights through acc
 
 ## Raw Data Preview
 
-![Model](images/Data_Preview.JPG)
+![Preview](images/Data_Preview.JPG)
