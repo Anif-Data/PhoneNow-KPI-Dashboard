@@ -1,0 +1,17 @@
+ABANDONEMENT RATE
+% Abandoned = DIVIDE(CALCULATE(COUNT(Sheet1[Call Id]), Sheet1[Answered (Y/N)] = "N"), COUNT(Sheet1[Call Id]), 0)
+
+Unresolved Rate
+% Unresolved = DIVIDE(CALCULATE(COUNT(Sheet1[Call Id]), Sheet1[Resolved] = "N"), COUNT(Sheet1[Call Id]), 0)
+
+Number of Abandoned Calls
+Abandoned = CALCULATE(COUNT(Sheet1[Call Id]), Sheet1[Answered (Y/N)] = "N")
+
+Number of Answered Calls
+Answered = CALCULATE(COUNT(Sheet1[Call Id]), Sheet1[Answered (Y/N)] = "Y")
+
+Average Handle Time (in seconds)
+Average Handle Time = AVERAGE(Sheet1[AvgTalkDuration])*24*60*60
+
+Number of Resolved Calls
+Resolved = CALCULATE(COUNT(Sheet1[Call Id]), Sheet1[Resolved] = "Y")
