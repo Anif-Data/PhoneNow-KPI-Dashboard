@@ -29,8 +29,13 @@ The primary objective is to provide actionable insights that enhance service qua
 | **Satisfaction Rating** | Customer's rating of the call experience on a scale of 1-5.                                          |
 
 ## METHODOLOGY
-### Data Preparation and Visualization 
+### Data Preparation and Transformation
+1. ETL Process: Data was extracted, transformed, and loaded into Power BI.
+2. Data Cleaning: Replaced missing values, standardized column formats, and added conditional columns.
+3. Calculated Measures: Developed custom DAX measures for KPIs.
+4. Filters and Slicers: Enabled filtering by Agent, Topic, and Time Period for dynamic analysis.
 
+### Data Modelling
 To enable robust time intelligence and facilitate a detailed analysis of the performance of the call center, the data preparation process was conducted with precision and attention to detail. Key activities included:  
 
 - **Calendar Table Development**: A custom calendar table was created to support advanced time-based analytics.  
@@ -47,3 +52,10 @@ This structured approach laid the groundwork for meaningful insights through acc
 ## Raw Data Preview
 
 ![Preview](images/Data_Preview.JPG)
+
+## Report Structure
+The dashboard consists of two pages for focused analysis:
+
+1. Call Center Performance Overview: Provides high-level metrics, including total calls, abandonment rates, busiest hours, and topic distribution.
+
+2. Agent Performance and Topic Analysis: Focuses on individual agent performance, satisfaction ratings, handle time, and a detailed breakdown of topics handled by the call center.
