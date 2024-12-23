@@ -5,7 +5,12 @@ This is a **Power BI project** on call center performance analysis for an imagin
 The goal is to identify trends, address inefficiencies, and provide actionable insights that can enhance customer service quality, optimize resource allocation, and improve overall call resolution rates. This analysis also includes recommendations to better manage peak hours, reward top-performing agents, and address common customer issues more efficiently.
 
 ## Problem Statement
-PhoneNow is facing challenges in optimizing its call center operations to meet growing customer demands and ensure high satisfaction levels. The company needs to identify trends in call volumes, assess agent performance, and understand key factors affecting customer satisfaction and call resolution rates. The primary objective of this analysis is to provide actionable insights that enhance service quality, improve resource allocation during peak hours, and support the development of strategies to optimize overall call center performance.
+PhoneNow is facing challenges in optimizing its call center operations to meet growing customer demands and maintain high satisfaction levels. Key issues include:
+
+- Identifying trends in call volumes and agent performance.
+- Understanding factors affecting customer satisfaction and resolution rates.
+- Reducing unanswered and abandoned calls during peak hours.
+The primary objective is to provide actionable insights that enhance service quality, optimize resource allocation during peak hours, and support the development of strategies to improve overall call center performance.
 
 ## Data Exploration
 
