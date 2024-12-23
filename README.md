@@ -39,5 +39,5 @@ This structured approach laid the groundwork for meaningful insights through acc
 ![Model](images/CallCenter_modelling.JPG)
 
 ## Raw Data Preview
-
+k
 ![Model](images/Data_Preview.JPG)
