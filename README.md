@@ -10,6 +10,7 @@ PhoneNow is facing challenges in optimizing its call center operations to meet g
 - Identifying trends in call volumes and agent performance.
 - Understanding factors affecting customer satisfaction and resolution rates.
 - Reducing unanswered and abandoned calls during peak hours.
+
 The primary objective is to provide actionable insights that enhance service quality, optimize resource allocation during peak hours, and support the development of strategies to improve overall call center performance.
 
 ## Data Exploration
