@@ -59,3 +59,31 @@ The dashboard consists of two pages for focused analysis:
 1. Call Center Performance Overview: Provides high-level metrics, including total calls, abandonment rates, busiest hours, and topic distribution.
 
 2. Agent Performance and Topic Analysis: Focuses on individual agent performance, satisfaction ratings, handle time, and a detailed breakdown of topics handled by the call center.
+
+## Key Insights
+The analysis provides detailed insights into PhoneNow's call center operations over three months (January–March 2021), focusing on critical metrics such as call handling efficiency, agent performance, customer experience, and topic trends.
+
+### Call Handling Efficiency
+- Total Calls: 5000 calls were logged over the three-month period.
+- Answered Calls: 4054 calls (81.08%) were successfully answered by agents. This highlights a generally efficient response rate but leaves room for improvement.
+- Resolved Calls: Of the answered calls, 3646 (72.92%) were resolved during the initial interaction, indicating effective problem-solving for most cases.
+- Abandoned Calls: 946 calls (18.92%) were abandoned before an agent could respond, a potential area of concern, especially during peak hours.
+
+### Agent Performance
+- Top Performer: Jim handled the highest number of calls (536), resolving 485, showcasing consistent performance.
+- Highest Customer Satisfaction: Martha achieved the highest average satisfaction rating of 3.47 out of 5, reflecting excellent customer engagement and problem resolution skills.
+- Average Handle Time: Across all agents, the average time to handle a call ranged between 223 and 231 seconds, demonstrating relatively consistent efficiency among team members.
+- Underperforming Metrics: Some agents displayed lower satisfaction ratings and resolution rates, suggesting the need for targeted coaching.
+
+### Customer Experience
+- Average Satisfaction Rating: Customers rated their experiences at an average of 3.40 out of 5, highlighting room for improvement in service quality.
+- Average Speed of Answer: Calls were answered within 67.52 seconds on average. However, during peak periods, delays likely contributed to higher abandonment rates.
+- Key Performance Hours: The busiest times were identified as 13:00–14:00, followed by 11:00–12:00 and 17:00–18:00. These periods saw the highest call volumes and longest response times.
+
+### Topic Analysis
+- Common Issues: The majority of calls were related to "Streaming" (749 calls), "Technical Support" (736 calls), and "Payment-related" issues (729 calls). This indicates recurring areas of concern that demand focused attention.
+- Resolution Challenges: Calls related to technical support showed slightly lower resolution rates, suggesting the need for specialized agent training in this domain.
+
+### Call Abandonment Trends
+- Critical Hours: Unanswered calls peaked between 12:00–13:00 and 09:00–10:00, coinciding with high call volumes and insufficient staffing.
+- Impact on Satisfaction: High abandonment rates during these hours could significantly impact customer satisfaction and loyalty if left unaddressed.
